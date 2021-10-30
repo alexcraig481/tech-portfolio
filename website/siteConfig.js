@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Alex Craig', // Title for your website.
-    tagline: 'Accountable, Collaborative, Tenacious. Technical Support Lead and QA Tester',
+    tagline: 'Accountable, Collaborative, Tenacious. Technical Support Lead and QA Tester.',
     profilePhoto: 'img/profile.png',
     url: 'https://alexcraig481.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
